@@ -1,4 +1,4 @@
-ssh-ca
+sshca
 ======
 
 Certificate authority for OpenSSH
